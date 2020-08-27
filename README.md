@@ -1,1 +1,1 @@
-# EasyGlycoPro
+# MyGlycoPro
